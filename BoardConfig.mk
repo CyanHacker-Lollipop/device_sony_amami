@@ -38,3 +38,7 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 12891175936
 
 #Recovery
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
+
+# Liquid Optimizations
+HACKIFY := true
+
